@@ -1,9 +1,9 @@
-
+import CounterComponent from "./components/CounterComponent";
 
 function App() {
   return (
     <>
-      < />
+      < CounterComponent/>
     </>
   );
 }
